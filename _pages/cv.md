@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+#title: "Experience"
 permalink: /experience/
 author_profile: true
 redirect_from:
@@ -48,7 +48,7 @@ Skills
 
 Cousework
 ======
-* Deep LEarning
+* Deep Learning
 * Motion Planning
 * Machine Learning
 * Artificial Intelligence
