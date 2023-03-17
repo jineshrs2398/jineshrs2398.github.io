@@ -7,7 +7,7 @@ excerpt: 'The paper describes the creation of a soft robotic ankle-foot orthosis
 date: 2019-12-05
 venue: '4th International and 19th National Conference on Machines and Mechanisms
 (iNaCoMM 2019)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://jineshrs2398.github.io/files/paper1.pdf'
 citation: ' Gudapati N., Kumaran K., Deepak S.V., Mukesh Kanna R., Jinesh R., Poddar H.(2022) Design and Control
 of a Low-Cost EMG-Based Soft Robotic Ankle-Foot Orthosis for Foot Drop Rehabilitation. In: Kumar R.,
 Chauhan V.S., Talha M., Pathak H. (eds) Machines, Mechanism and Robotics. Lecture Notes in Mechanical
