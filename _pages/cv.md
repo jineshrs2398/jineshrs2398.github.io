@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Experience"
+title: "CV"
 permalink: /experience/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Resume](http://jineshrs2398.github.io/files/resume.pdf)
 
 Education
 ======
