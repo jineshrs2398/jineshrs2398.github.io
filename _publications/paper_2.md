@@ -19,4 +19,4 @@ The paper investigates and compares the performance of different control strateg
 Recommended citation:  Vishesh Biyani, Jinesh R, Tharani Eswar T A, Sithartha Sourya V S, Pinkymol K.P (2021), Comparative
 Study of Different Control Strategies in Permanent Magnet Synchronous Motor Drives, 2021 IEEE 5th
 International Conference on Condition Assessment Techniques in Electrical Systems (CATCON), Pages. 275-281.
-https://doi.org/10.1109/CATCON52335.2021.9670516<i>Journal 1</i>. 1(2).
+https://doi.org/10.1109/CATCON52335.2021.9670516<i>Journal 1</i>. 1(1).

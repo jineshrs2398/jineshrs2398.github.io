@@ -22,5 +22,5 @@ Recommended citation:  Gudapati N., Kumaran K., Deepak S.V., Mukesh Kanna R., Ji
 of a Low-Cost EMG-Based Soft Robotic Ankle-Foot Orthosis for Foot Drop Rehabilitation. In: Kumar R.,
 Chauhan V.S., Talha M., Pathak H. (eds) Machines, Mechanism and Robotics. Lecture Notes in Mechanical
 Engineering. Springer, Singapore. Pages 1367-1382. https://doi.org/10.1007/978-981-16-0550-5 130
-<i>Journal 1</i>. 1(1).
+<i>Journal 1</i>. 1(2).
 
