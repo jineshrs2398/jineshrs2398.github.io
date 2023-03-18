@@ -56,7 +56,7 @@ Cousework
 * Data Structures and Algorithms
 
 
-Service and leadership
+Service and Leadership
 ======
 * Treasurer at the Robotics and Machine Intelligence club (RMI), NITT (July ’18 - May ’21): Led this
 35-member student robotics research organisation that works on projects such as assistive and mobile robotics,
