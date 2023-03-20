@@ -1,6 +1,6 @@
 ---
 title: "Detection of Varus Thrust in Knee Osteoarthritis"
-excerpt: "Developed a wearable device with IMU sensors and applied Kalman filters to detect Varus Thrust in older adults' gait movements, with real-time prediction updates using Pygame, as part of research work in Neuromechanics Laboratory at IIT Madras."1<br/><img src='/images/DR1.png'>"
+excerpt: "Developed a wearable device with IMU sensors and applied Kalman filters to detect Varus Thrust in older adults' gait movements, with real-time prediction updates using Pygame, as part of research work in Neuromechanics Laboratory at IIT Madras.<br/><img src='/images/DR1.PNG'>"
 collection: portfolio
 ---
 

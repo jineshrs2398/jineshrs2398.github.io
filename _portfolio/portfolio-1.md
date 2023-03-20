@@ -1,6 +1,6 @@
 ---
 title: "Depth Completion for Self-Driving Cars"
-excerpt: "Developing a novel approach for depth completion using a combination of RGB and depth data to improve accuracy and completeness."1<br/><img src='/images/DR1.png'>"
+excerpt: "Developing a novel approach for depth completion using a combination of RGB and depth data to improve accuracy and completeness.<br/><img src='/images/DR1.PNG'>"
 collection: projects
 ---
 

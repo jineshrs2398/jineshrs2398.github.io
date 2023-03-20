@@ -1,6 +1,6 @@
 ---
 title: "SPEAR: Soft Robotic EMG Assisted Rehabilitation"
-excerpt: "Developed a bio-inspired soft robotic rehabilitation solution for foot paralysis in stroke patients, utilizing EMG signals for muscle activation and a custom-designed pneumatic circuit for movement control."1<br/><img src='/images/spear.png'>"
+excerpt: "Developed a bio-inspired soft robotic rehabilitation solution for foot paralysis in stroke patients, utilizing EMG signals for muscle activation and a custom-designed pneumatic circuit for movement control. <br/><img src='/images/spear.PNG'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Spine Surgery Robot"
-excerpt: "Developed a PyQT framework to enable real-time interaction between doctors and a 6-DOF Image-guided Surgical Robot in clinical trials."1<br/>"
+excerpt: "Developed a PyQT framework to enable real-time interaction between doctors and a 6-DOF Image-guided Surgical Robot in clinical trials.<br/>"
 collection: portfolio
 ---
 
