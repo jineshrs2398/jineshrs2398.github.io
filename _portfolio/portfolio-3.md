@@ -1,6 +1,6 @@
 ---
 title: "Image Classification of Stroke Blood Clot Origin"
-excerpt: "Leveraged deep learning techniques, including transfer learning, to develop an algorithm that accurately classifies blood clots based on their origin, with an accuracy of 72.4% and 73.75% for CE and LAA clots, respectively."1<br/><img src='/images/ML.png'>"
+excerpt: "Leveraged deep learning techniques, including transfer learning, to develop an algorithm that accurately classifies blood clots based on their origin, with an accuracy of 72.4% and 73.75% for CE and LAA clots, respectively. <br/><img src='/images/ML.png'>"
 collection: portfolio
 ---
 

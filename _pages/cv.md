@@ -67,14 +67,6 @@ Conducted 3 robotics workshops, covering topics such as embedded systems, comput
 and so on. In addition, competitions in Maze Solver and Pick and Place Robots were held, as well as one
 competition testing the participants’ ability to innovate and ideate in the field of robotics.
 
-* Class Committee Student Representative, NITT (July ’20 - Dec. ’20): Represented students in class
-committee meetings, resolving student issues, and organising comprehensive evaluations while maintaining
-smooth cooperation with instructors and students.
-
-* Member at Currents, the technical symposium of EEE Association at NITT: Conducted 7 workshops on
-topics like Gesture Controlled Robot, Camera controlled Robotic Arm, Python Programming, Image
-Processing, IoT and 2 Competitions on IoT and a Line Following Robot.
-
 * Head of Social Responsibility, EEE Association at NITT (July ’20 - Feb. ’21). Led a team of 20
 volunteers to organise awareness programs, outreach and donation drives, encompassing education and
 awareness about social issues.

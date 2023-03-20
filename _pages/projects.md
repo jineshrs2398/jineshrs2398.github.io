@@ -17,7 +17,7 @@ Achieved an accuracy of 72.4% and 73.75% with an F1 score of 0.701 and 0.765 res
 
 Object Detection using YOLOv2
 ======
-corporated the YOLOv2 object detection algorithm with pre-trained weights to accurately and efficiently
+Incorporated the YOLOv2 object detection algorithm with pre-trained weights to accurately and efficiently
 detect various objects in real-world images, demonstrating expertise in key deep learning concepts such as
 CNN, anchor boxes, and non-max suppression.
 
