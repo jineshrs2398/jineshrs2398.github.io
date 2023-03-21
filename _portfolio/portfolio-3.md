@@ -10,5 +10,6 @@ from the heart) or LAA (i.e., originating from the plaque in the inner lining of
 Used DenseNet and ResNet network with transfer learning to classify blood clot images to detect their origin.
 Achieved an accuracy of 72.4% and 73.75% with an F1 score of 0.701 and 0.765 respectively
 
+<iframe src="https://sites.google.com/view/fall2022-cs539-project/home" width="100%" height="500"></iframe>
 
 
