@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Robotics Engineering, Worcester Polytechnic Institute, 2024(Excepted)
-* B.tech. in Electrical and Electronics Engineering, National Institute of Technology, Tiruchirappalli, 2021
+* M.S. in Robotics Engineering, Worcester Polytechnic Institute, (Academic year 2022-24)
+* B.Tech. in Electrical and Electronics Engineering, National Institute of Technology, Tiruchirappalli, 2021
 
 Work experience
 ======
