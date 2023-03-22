@@ -1,6 +1,6 @@
 ---
 title: "Bipedal Walking"
-excerpt: "Crafted a 12DoF Dynamic Walking Robot in Matlab-Simulink that overcomes the challenges of traversing on flat terrain by generating precise footstep planning, zero moment points, and applying inverse kinematics for seamless movement. <br/><img src='/images/Biped.PNG'>"
+excerpt: "Crafted a 12DoF Dynamic Walking Robot in Matlab-Simulink that overcomes the challenges of traversing on flat terrain by generating precise footstep planning, zero moment points, and applying inverse kinematics for seamless movement. <br/><br/><img src='/images/Biped.PNG'>"
 collection: portfolio
 ---
 
