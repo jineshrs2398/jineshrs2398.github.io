@@ -18,6 +18,11 @@ Education
 
 Work experience
 ======
+* Winter 2024: Research Assistant
+  * Worcester Polytechnic Institute
+  * Duties included: Developed control systems into PneuHOPE HAnd Exoskeleton for better functionality and more prescise movement assistance for patients with upper motor neuron injuries. 
+  * Supervisor: Tess Meier
+
 * Spring 2023: Research Assistant
   * Worcester Polytechnic Institute
   * Duties included: Worked on improving LiDAR accuracy and completeness compared to state-of-the-art methods using a dataset of LiDAR and RGB data.
@@ -51,8 +56,9 @@ Skills
 Cousework
 ======
 * Deep Learning
-* Motion Planning
+* Computer Vision
 * Machine Learning
+* Biomedical Robotics
 * Artificial Intelligence
 * Modern Control Systems
 * Data Structures and Algorithms
@@ -60,14 +66,16 @@ Cousework
 
 Service and Leadership
 ======
-* Treasurer at the Robotics and Machine Intelligence club (RMI), NITT (July ’18 - May ’21): Led this
-35-member student robotics research organisation that works on projects such as assistive and mobile robotics,
+* Member at Bionics Club, WPI Massachusetts (November ’23 - Present): 
+Worked on developing a full hand arm exoskeleton. Currently working on developing inhouse EMG sensors and Motor control
+* Treasurer at the Robotics and Machine Intelligence club (RMI), NITT (July ’18 - May ’21): 
+Led this 35-member student robotics research organisation that works on projects such as assistive and mobile robotics,
 human-robot interaction, artificial intelligence, and rapid prototyping, among many.
 Conducted 3 robotics workshops, covering topics such as embedded systems, computer vision, CAD modelling,
 and so on. In addition, competitions in Maze Solver and Pick and Place Robots were held, as well as one
 competition testing the participants’ ability to innovate and ideate in the field of robotics.
 
-* Head of Social Responsibility, EEE Association at NITT (July ’20 - Feb. ’21). Led a team of 20
-volunteers to organise awareness programs, outreach and donation drives, encompassing education and
+* Head of Social Responsibility, EEE Association at NITT (July ’20 - Feb. ’21): 
+Led a team of 20 volunteers to organise awareness programs, outreach and donation drives, encompassing education and
 awareness about social issues.
 
