@@ -1,6 +1,6 @@
 ---
 title: "Visual Odometery for Monocular Camera"
-excerpt: "Developed and implemented a Visual Odometry system for a monocular camera using Python and OpenCV, achieving precise pose estimation and trajectory mapping in real-time, thereby enhancing the understanding of camera motion within 2D and 3D environments.<br/>"
+excerpt: "Developed and implemented a Visual Odometry system for a monocular camera using Python and OpenCV, achieving precise pose estimation and trajectory mapping in real-time, thereby enhancing the understanding of camera motion within 2D and 3D environments.<br/><img src='/images/matches.gif'>"
 collection: portfolio
 ---
 
