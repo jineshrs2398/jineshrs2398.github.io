@@ -1,11 +1,14 @@
 ---
-title: "Bipedal Walking"
-excerpt: "Crafted a 12DoF Dynamic Walking Robot in Matlab-Simulink that overcomes the challenges of traversing on flat terrain by generating precise footstep planning, zero moment points, and applying inverse kinematics for seamless movement."1<br/><img src='/images/Biped.png'>"
-collection: portfolio
+title: "Image Classification of Stroke Blood Clot Origin"
+excerpt: "Leveraged deep learning techniques, including transfer learning, to develop an algorithm that accurately classifies blood clots based on their origin, with an accuracy of 72.4% and 73.75% for CE and LAA clots, respectively."1<br/><img src='/images/ML.png'>"
+collection: projects
 ---
 
-Developed a 12DoF Dynamic Walking Robot in Matlab-Simulink, which can traverse through a flat plane.
+Objective: To analyze pathology images of blood clots and classify the etiology to either CE (i.e., originating
+from the heart) or LAA (i.e., originating from the plaque in the inner lining of an artery).
 
-Implemented Footstep planning and generated Zero moment points from the reference path and current
-position. Inverse Kinematics is applied to actuate to the desired position for the corresponding joints.
+Used DenseNet and ResNet network with transfer learning to classify blood clot images to detect their origin.
+Achieved an accuracy of 72.4% and 73.75% with an F1 score of 0.701 and 0.765 respectively
+
+
 

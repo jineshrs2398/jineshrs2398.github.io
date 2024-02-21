@@ -1,12 +1,11 @@
 ---
-title: "Spine Surgery Robot"
-excerpt: "Developed a PyQT framework to enable real-time interaction between doctors and a 6-DOF Image-guided Surgical Robot in clinical trials."1<br/>"
-collection: portfolio
+title: "Depth Completion for Self-Driving Cars"
+excerpt: "Developing a novel approach for depth completion using a combination of RGB and depth data to improve accuracy and completeness."1<br/><img src='/images/DR1.png'>"
+collection: projects
 ---
 
-Build a graphical user interface for the doctors to perform clinical trials using the 6-DOF Image-guided
-Surgical Robot, and the interactions were made to simulate live in Pybullet engine.
+Implemented RGB-guided LiDAR point cloud completion with uncertainty estimation using a CNN. 
 
-Designed the framework on PyQT which establishes the communication between GUI and Pybullet using
-XML-RPC protocol call.
+Improved LiDAR accuracy and completeness compared to state-of-the-art methods using a dataset of LiDAR
+and RGB data.
 

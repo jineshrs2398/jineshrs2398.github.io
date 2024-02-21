@@ -1,11 +1,11 @@
 ---
-title: "Detection of Varus Thrust in Knee Osteoarthritis"
-excerpt: "Developed a wearable device with IMU sensors and applied Kalman filters to detect Varus Thrust in older adults' gait movements, with real-time prediction updates using Pygame, as part of research work in Neuromechanics Laboratory at IIT Madras."1<br/><img src='/images/DR1.png'>"
+title: "Bipedal Walking"
+excerpt: "Crafted a 12DoF Dynamic Walking Robot in Matlab-Simulink that overcomes the challenges of traversing on flat terrain by generating precise footstep planning, zero moment points, and applying inverse kinematics for seamless movement."1<br/><img src='/images/Biped.png'>"
 collection: portfolio
 ---
 
-Designed a wearable device to monitor the gait movement of older adults, who are likely to have Varus Thrust
+Developed a 12DoF Dynamic Walking Robot in Matlab-Simulink, which can traverse through a flat plane.
 
-Applied Kalman filters to reduce noise from IMU sensors, predictions were updated in real-time using Pygame.
-
+Implemented Footstep planning and generated Zero moment points from the reference path and current
+position. Inverse Kinematics is applied to actuate to the desired position for the corresponding joints.
 
