@@ -1,8 +1,10 @@
 ---
-title: "Image Segmentation"
-excerpt: "Developed semantic image segmentation using U-net Architecture <br/><img src='/images/Unet.PNG'>"
-collection: portfolio
+title: "Depth Completion for Self-Driving Cars"
+excerpt: "Developing a novel approach for depth completion using a combination of RGB and depth data to improve accuracy and completeness.<br/><img src='/images/DR1.PNG'>"
+collection: projects
 ---
 
- Implemented the U-Net architecture using a deep learning framework  TensorFlow. Trained the model on Carla dataset and monitored the training process for accuracy which gives around 96.24%.
+Implemented RGB-guided LiDAR point cloud completion with uncertainty estimation using a CNN. 
 
+Improved LiDAR accuracy and completeness compared to state-of-the-art methods using a dataset of LiDAR
+and RGB data.
