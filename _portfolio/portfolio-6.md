@@ -1,14 +1,12 @@
 ---
-title: "SPEAR: Soft Robotic EMG Assisted Rehabilitation"
-excerpt: "Developed a bio-inspired soft robotic rehabilitation solution for foot paralysis in stroke patients, utilizing EMG signals for muscle activation and a custom-designed pneumatic circuit for movement control. <br/><img src='/images/spear_50.png'>"
+title: "Bipedal Walking"
+excerpt: "Crafted a 12DoF Dynamic Walking Robot in Matlab-Simulink that overcomes the challenges of traversing on flat terrain by generating precise footstep planning, zero moment points, and applying inverse kinematics for seamless movement. <br/><br/><img src='/images/Biped.PNG'>"
 collection: portfolio
 ---
 
-A bio-inspired solution for foot rehabilitation of stroke patients suffering from temporary paralysis.
+Developed a 12DoF Dynamic Walking Robot in Matlab-Simulink, which can traverse through a flat plane.
 
-Constructed a pneumatic circuit with solenoid valves for movement and pressure control of the actuators
+Implemented Footstep planning and generated Zero moment points from the reference path and current
+position. Inverse Kinematics is applied to actuate to the desired position for the corresponding joints.
 
-Obtained Electromyographic signals from muscles for dorsiflexion and plantarflexion movement of the
-foot from calf muscles.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5vd9GFbBkbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7syMuikB8ZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

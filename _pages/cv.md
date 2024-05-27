@@ -68,6 +68,7 @@ Service and Leadership
 ======
 * Member at Bionics Club, WPI Massachusetts (November ’23 - Present): 
 Worked on developing a full hand arm exoskeleton. Currently working on developing inhouse EMG sensors and Motor control
+
 * Treasurer at the Robotics and Machine Intelligence club (RMI), NITT (July ’18 - May ’21): 
 Led this 35-member student robotics research organisation that works on projects such as assistive and mobile robotics,
 human-robot interaction, artificial intelligence, and rapid prototyping, among many.
