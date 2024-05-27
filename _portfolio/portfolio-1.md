@@ -1,7 +1,7 @@
 ---
 title: " Vision-Controlled Bionic Arm"
 excerpt: "Developed a real-time gesture-controlled bionic arm using Python and MediaPipe for hand gesture recognition and
- Arduino for precise servo control, effectively translating human hand movements into synchronized robotic responses.<br/><img src='/images/Vision_Controller.gif'>"
+ Arduino for precise servo control, effectively translating human hand movements into synchronized robotic responses.<br/><br/><img src='/images/Vision_Controller.gif'>"
 collection: portfolio
 ---
 
@@ -14,4 +14,4 @@ Configured and calibrated servo motors on the bionic arm using PWM signals gener
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=a_JmUwisdN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a_JmUwisdN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
