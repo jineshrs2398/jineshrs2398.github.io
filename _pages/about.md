@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website, where I showcase my expertise in robotics engineering and computer vision. With a Bachelor's degree in Electrical and Electronics Engineering and a Master's degree in Robotics Engineering from Worcester Polytechnic Institute, I have honed my skills in deep learning and robotics.
+Welcome to my website, I am Jinesh Rajasekhar, a Computer Vision Engineer and Robotics Specialist passionate about leveraging advanced technologies to solve real-world challenges. With a Master's degree in Robotics Engineering from Worcester Polytechnic Institute and extensive hands-on experience in computer vision, deep learning, and robotics, I have led innovative projects, such as designing a robotic hand for deaf-blind individuals and achieving 90% accuracy in real-time gesture recognition.
 
-In my professional experience, I have worked as a Research Assistant at WPI, where I developed RGB-guided LiDAR point cloud completion using a CNN. I have also worked as a Software Engineer at HTIC, where I built a graphical user interface for the 6-DOF Image-guided Surgical Robot using PyQT. Additionally, I have experience working on designing a wearable device to monitor the gait movement of older adults at IIT Madras.
+My expertise spans Python, C++, PyTorch, TensorFlow, and embedded systems, which I’ve used to develop impactful solutions like 3D object reconstruction, visual odometry, and autonomous robotic systems. My work combines technical rigor with creativity, delivering results that enhance accessibility, healthcare, and automation.
+
+Through collaboration with multidisciplinary teams and a commitment to innovation, I continue to push the boundaries of robotics and AI to make a tangible difference in people's lives. Explore my portfolio to see the exciting projects I’ve worked on!
