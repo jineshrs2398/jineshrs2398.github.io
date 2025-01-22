@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jinesh Rajasekhar"
-  avatar           : "profile.jpeg"
-  bio              : "Currently pursuing Master of Science in Robotics Engineering at Worcester Polytechnic Institute ( WPI )"
-  location         : "Worcester, MA, US"
+  avatar           : "IMG_0776.png"
+  bio              : "Aspiring Computer Vision Engineer | Robotics Enthusiast | Master's Student in Robotics Engineering at WPI"
+  location         : "Boston, MA, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jrajasekhar@wpi.edu"
+  email            : "jineshrajasekhar@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
